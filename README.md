@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Github](https://github.com/brunagoncalves/recipe-page)
-- Live Site URL: [qrcode.github.io](https://brunagoncalves.github.io/recipe-page/)
+- Live Site URL: [RecipePage](https://brunagoncalves.github.io/recipe-page/)
 
 ## My Process
 
